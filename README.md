@@ -1,5 +1,8 @@
 <h1>Hi 👋, I'm Sam</h1>
-<p>A passionate software developer skilled in coding, robotics, IoT, and hardware integration (sensors/actuators). Expertise in AI, ML, DL, Cloud computing, and HCI."</p>
+<p>A passionate software developer proficient in coding, robotics, internet of things, and hardware integration, including sensors and actuators. Strong
+expertise in Internet of things and robust background in cutting-edge technologies, including
+Robotics, Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL),
+Cloud computing and Human-Computer Interaction (HCI). "</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
