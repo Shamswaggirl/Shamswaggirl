@@ -27,9 +27,9 @@ Cloud computing and Human-Computer Interaction (HCI). "</p>
 
 ## 📜 Published Papers
 
-### 1️⃣ **MQTT Protocol Use Cases in the Internet of Things (https://link.springer.com/chapter/10.1007/978-3-030-93620-4_12)**
-
-
+### 1️⃣ **MQTT Protocol Use Cases in the Internet of Things 
+(https://link.springer.com/chapter/10.1007/978-3-030-93620-4_12)**
+### 2️⃣ **A GROCERY LEVEL INDICATOR FOR HOUSEHOLD APPLICATION DEVICE USING IOT (https://www.ijasret.com/VolumeArticles/FullTextPDF/681_7.A_GROCERY_LEVEL_INDICATOR_FOR_HOUSEHOLD_APPLICATION_DEVICE_USING_IOT.pdf)**
 
 
 <!--
