@@ -31,14 +31,10 @@ Cloud computing and Human-Computer Interaction (HCI). "</p>
 (https://link.springer.com/chapter/10.1007/978-3-030-93620-4_12)**
 ### 2️⃣ **A GROCERY LEVEL INDICATOR FOR HOUSEHOLD APPLICATION DEVICE USING IOT (https://www.ijasret.com/VolumeArticles/FullTextPDF/681_7.A_GROCERY_LEVEL_INDICATOR_FOR_HOUSEHOLD_APPLICATION_DEVICE_USING_IOT.pdf)**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 👨‍💻 All of my research papers are available at [https://scholar.google.ca/citations?user=xyIfnusAAAAJ&hl=en](https://scholar.google.ca/citations?user=xyIfnusAAAAJ&hl=en)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="/https://scholar.google.ca/citations?user=xyifnusaaaaj&hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://scholar.google.ca/citations?user=xyifnusaaaaj&hl=en" height="30" width="40" /></a>
-</p>
+- 📫 How to reach me **shamdatch@gmail.com**
+
 
 
 <!--
