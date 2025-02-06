@@ -22,12 +22,18 @@ Cloud computing and Human-Computer Interaction (HCI). "</p>
 <p><a target="_blank" href="https://www.linkedin.com/in/shamswaggirl" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/sham__the_explorer" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
  <h2>📄 Research papers </h2>
- 1. [MQTT protocol use cases in the IoT](https://link.springer.com/chapter/10.1007/978-3-030-93620-4_12)
-   
+ 1. [MQTT protocol use cases in the IoT]
+ (https://link.springer.com/chapter/10.1007/978-3-030-93620-4_12)
+ 2. [Grocery level indicator]
+ (https://www.ijasret.com/VolumeArticles/FullTextPDF/681_7.A_GROCERY_LEVEL_INDICATOR_FOR_HOUSEHOLD_APPLICATION_DEVICE_USING_IOT.pdf)
+ 3. [Routing protocol security for low power and lossy networks in IoT]
+ (https://link.springer.com/chapter/10.1007/978-3-030-93620-4_11)
+ 
+ <h2>👨‍💻 All of my research papers are available at<h2> 
+  [https://scholar.google.ca/citations?user=xyIfnusAAAAJ&hl=en](https://scholar.google.ca/citations?user=xyIfnusAAAAJ&hl=en)
 
-- 👨‍💻 All of my research papers are available at [https://scholar.google.ca/citations?user=xyIfnusAAAAJ&hl=en](https://scholar.google.ca/citations?user=xyIfnusAAAAJ&hl=en)
-
-- 📫 How to reach me **shamdatch@gmail.com**
+ <h2>📫 How to reach me<h2>
+ shamdatch@gmail.com
 
 
 
