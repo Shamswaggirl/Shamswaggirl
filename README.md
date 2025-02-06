@@ -27,7 +27,9 @@ Cloud computing and Human-Computer Interaction (HCI). "</p>
   <h3>3️⃣ <a href="https://link.springer.com/chapter/10.1007/978-3-030-93620-4_11">Routing protocol security for low power and lossy networks in IoT</a></h3>
  
  <h2>👨‍💻 All of my research papers are available at</h2>
-  [https://scholar.google.ca/citations?user=xyIfnusAAAAJ&hl=en](https://scholar.google.ca/citations?user=xyIfnusAAAAJ&hl=en)
+<a target="_blank" href="https://scholar.google.com/citations?user=xyIfnusAAAAJ&hl=en" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Google%20Scholar-Logo?style=for-the-badge&logo=google-scholar&logoColor=white&color=blue" alt="Google Scholar" />
+</a>
 
 
 
