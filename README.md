@@ -23,10 +23,7 @@ Cloud computing and Human-Computer Interaction (HCI). "</p>
 <a target="_blank" href="https://www.instagram.com/sham__the_explorer" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
  <h2>📄 Research papers </h2>
   <h3>1️⃣ <a href="https://link.springer.com/chapter/10.1007/978-3-030-93620-4_12">MQTT protocol use cases</a></h3>
- <a 1. MQTT protocol use cases in the IoT />
- (https://link.springer.com/chapter/10.1007/978-3-030-93620-4_12)
- <a>2. [Grocery level indicator]</a>
- (https://www.ijasret.com/VolumeArticles/FullTextPDF/681_7.A_GROCERY_LEVEL_INDICATOR_FOR_HOUSEHOLD_APPLICATION_DEVICE_USING_IOT.pdf)
+  <h3>2️⃣ <a href="https://www.ijasret.com/VolumeArticles/FullTextPDF/681_7.A_GROCERY_LEVEL_INDICATOR_FOR_HOUSEHOLD_APPLICATION_DEVICE_USING_IOT.pdf">Grocery level indicator</a></h3>
  3. [Routing protocol security for low power and lossy networks in IoT]
  (https://link.springer.com/chapter/10.1007/978-3-030-93620-4_11)
  
