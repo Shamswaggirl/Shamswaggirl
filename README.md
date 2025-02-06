@@ -29,9 +29,6 @@ Cloud computing and Human-Computer Interaction (HCI). "</p>
  <h2>👨‍💻 All of my research papers are available at</h2>
   [https://scholar.google.ca/citations?user=xyIfnusAAAAJ&hl=en](https://scholar.google.ca/citations?user=xyIfnusAAAAJ&hl=en)
 
- <h2>📫 How to reach me</h2>
- shamdatch@gmail.com
-
 
 
 <!--
