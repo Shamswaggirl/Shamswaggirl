@@ -24,13 +24,12 @@ Cloud computing and Human-Computer Interaction (HCI). "</p>
  <h2>📄 Research papers </h2>
   <h3>1️⃣ <a href="https://link.springer.com/chapter/10.1007/978-3-030-93620-4_12">MQTT protocol use cases</a></h3>
   <h3>2️⃣ <a href="https://www.ijasret.com/VolumeArticles/FullTextPDF/681_7.A_GROCERY_LEVEL_INDICATOR_FOR_HOUSEHOLD_APPLICATION_DEVICE_USING_IOT.pdf">Grocery level indicator</a></h3>
- 3. [Routing protocol security for low power and lossy networks in IoT]
- (https://link.springer.com/chapter/10.1007/978-3-030-93620-4_11)
+  <h3>3️⃣ <a href="https://link.springer.com/chapter/10.1007/978-3-030-93620-4_11">Routing protocol security for low power and lossy networks in IoT</a></h3>
  
- <h2>👨‍💻 All of my research papers are available at<h2> 
+ <h2>👨‍💻 All of my research papers are available at</h2>
   [https://scholar.google.ca/citations?user=xyIfnusAAAAJ&hl=en](https://scholar.google.ca/citations?user=xyIfnusAAAAJ&hl=en)
 
- <h2>📫 How to reach me<h2>
+ <h2>📫 How to reach me</h2>
  shamdatch@gmail.com
 
 
